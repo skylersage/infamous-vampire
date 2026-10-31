@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Copy",
+    "keys": "Ctrl + C"
+  },
+  {
+    "id": 2,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Cut",
+    "keys": "Ctrl + X"
+  },
+  {
+    "id": 3,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Paste",
+    "keys": "Ctrl + V"
+  },
+  {
+    "id": 4,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Undo",
+    "keys": "Ctrl + Z"
+  },
+  {
+    "id": 5,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Redo",
+    "keys": "Ctrl + Y"
+  },
+  {
+    "id": 6,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Select all",
+    "keys": "Ctrl + A"
+  },
+  {
+    "id": 7,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Save",
+    "keys": "Ctrl + S"
+  },
+  {
+    "id": 8,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Save As",
+    "keys": "F12"
+  },
+  {
+    "id": 9,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Print",
+    "keys": "Ctrl + P"
+  },
+  {
+    "id": 10,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Create a new file",
+    "keys": "Ctrl + N"
+  },
+  {
+    "id": 11,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Open a file",
+    "keys": "Ctrl + O"
+  },
+  {
+    "id": 12,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Find",
+    "keys": "Ctrl + F"
+  },
+  {
+    "id": 13,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Find and Replace",
+    "keys": "Ctrl + H"
+  },
+  {
+    "id": 14,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Bold",
+    "keys": "Ctrl + B"
+  },
+  {
+    "id": 15,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Italic",
+    "keys": "Ctrl + I"
+  },
+  {
+    "id": 16,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Underline",
+    "keys": "Ctrl + U"
+  },
+  {
+    "id": 17,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Close the current file",
+    "keys": "Ctrl + W"
+  },
+  {
+    "id": 18,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Insert a hyperlink",
+    "keys": "Ctrl + K"
+  },
+  {
+    "id": 19,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Open Help",
+    "keys": "F1"
+  },
+  {
+    "id": 20,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Check spelling",
+    "keys": "F7"
+  },
+  {
+    "id": 21,
+    "app": "Microsoft Office (Word, Excel, PowerPoint)",
+    "action": "Paste Special",
+    "keys": "Ctrl + Alt + V"
+  },
+  {
+    "id": 22,
+    "app": "Microsoft Word",
+    "action": "Center align text",
+    "keys": "Ctrl + E"
+  },
+  {
+    "id": 23,
+    "app": "Microsoft Word",
+    "action": "Left align text",
+    "keys": "Ctrl + L"
+  },
+  {
+    "id": 24,
+    "app": "Microsoft Word",
+    "action": "Right align text",
+    "keys": "Ctrl + R"
+  },
+  {
+    "id": 25,
+    "app": "Microsoft Word",
+    "action": "Justify text",
+    "keys": "Ctrl + J"
+  },
+  {
+    "id": 26,
+    "app": "Microsoft Word",
+    "action": "Go To page, line or bookmark",
+    "keys": "Ctrl + G"
+  },
+  {
+    "id": 27,
+    "app": "Microsoft Word",
+    "action": "Insert a page break",
+    "keys": "Ctrl + Enter"
+  },
+  {
+    "id": 28,
+    "app": "Microsoft Word",
+    "action": "Increase font size",
+    "keys": "Ctrl + Shift + >"
+  },
+  {
+    "id": 29,
+    "app": "Microsoft Word",
+    "action": "Decrease font size",
+    "keys": "Ctrl + Shift + <"
+  },
+  {
+    "id": 30,
+    "app": "Microsoft Word",
+    "action": "Open the Font dialog box",
+    "keys": "Ctrl + D"
+  },
+  {
+    "id": 31,
+    "app": "Microsoft Word",
+    "action": "Copy formatting",
+    "keys": "Ctrl + Shift + C"
+  },
+  {
+    "id": 32,
+    "app": "Microsoft Word",
+    "action": "Paste formatting",
+    "keys": "Ctrl + Shift + V"
+  },
+  {
+    "id": 33,
+    "app": "Microsoft Word",
+    "action": "Go to the start of the document",
+    "keys": "Ctrl + Home"
+  },
+  {
+    "id": 34,
+    "app": "Microsoft Word",
+    "action": "Go to the end of the document",
+    "keys": "Ctrl + End"
+  },
+  {
+    "id": 35,
+    "app": "Microsoft Word",
+    "action": "Create a bulleted list",
+    "keys": "Ctrl + Shift + L"
+  },
+  {
+    "id": 36,
+    "app": "Microsoft Word",
+    "action": "Single line spacing",
+    "keys": "Ctrl + 1"
+  },
+  {
+    "id": 37,
+    "app": "Microsoft Word",
+    "action": "Double line spacing",
+    "keys": "Ctrl + 2"
+  },
+  {
+    "id": 38,
+    "app": "Microsoft Word",
+    "action": "1.5 line spacing",
+    "keys": "Ctrl + 5"
+  },
+  {
+    "id": 39,
+    "app": "Microsoft Word",
+    "action": "Subscript",
+    "keys": "Ctrl + ="
+  },
+  {
+    "id": 40,
+    "app": "Microsoft Word",
+    "action": "Superscript",
+    "keys": "Ctrl + Shift + ="
+  },
+  {
+    "id": 41,
+    "app": "Microsoft Word",
+    "action": "Make text ALL CAPS",
+    "keys": "Ctrl + Shift + A"
+  },
+  {
+    "id": 42,
+    "app": "Microsoft Word",
+    "action": "Change text case",
+    "keys": "Shift + F3"
+  },
+  {
+    "id": 43,
+    "app": "Microsoft Word",
+    "action": "Apply Heading 1",
+    "keys": "Ctrl + Alt + 1"
+  },
+  {
+    "id": 44,
+    "app": "Microsoft Word",
+    "action": "Apply Heading 2",
+    "keys": "Ctrl + Alt + 2"
+  },
+  {
+    "id": 45,
+    "app": "Microsoft Word",
+    "action": "Delete the word to the left",
+    "keys": "Ctrl + Backspace"
+  },
+  {
+    "id": 46,
+    "app": "Microsoft Word",
+    "action": "Insert a comment",
+    "keys": "Ctrl + Alt + M"
+  },
+  {
+    "id": 47,
+    "app": "Microsoft Word",
+    "action": "Turn Track Changes on or off",
+    "keys": "Ctrl + Shift + E"
+  },
+  {
+    "id": 48,
+    "app": "Microsoft Word",
+    "action": "Insert a line break",
+    "keys": "Shift + Enter"
+  },
+  {
+    "id": 49,
+    "app": "Microsoft Word",
+    "action": "Move one word to the right",
+    "keys": "Ctrl + Right Arrow"
+  },
+  {
+    "id": 50,
+    "app": "Microsoft Word",
+    "action": "Select to the end of the word",
+    "keys": "Ctrl + Shift + Right Arrow"
+  },
+  {
+    "id": 51,
+    "app": "Microsoft Word",
+    "action": "Increase the indent",
+    "keys": "Ctrl + M"
+  },
+  {
+    "id": 52,
+    "app": "Microsoft Word",
+    "action": "Decrease the indent",
+    "keys": "Ctrl + Shift + M"
+  },
+  {
+    "id": 53,
+    "app": "Microsoft Word",
+    "action": "Create a hanging indent",
+    "keys": "Ctrl + T"
+  },
+  {
+    "id": 54,
+    "app": "Microsoft Excel",
+    "action": "Jump to the edge of the data region",
+    "keys": "Ctrl + Arrow Key"
+  },
+  {
+    "id": 55,
+    "app": "Microsoft Excel",
+    "action": "Go to cell A1",
+    "keys": "Ctrl + Home"
+  },
+  {
+    "id": 56,
+    "app": "Microsoft Excel",
+    "action": "Go to the last used cell",
+    "keys": "Ctrl + End"
+  },
+  {
+    "id": 57,
+    "app": "Microsoft Excel",
+    "action": "Select the entire column",
+    "keys": "Ctrl + Space"
+  },
+  {
+    "id": 58,
+    "app": "Microsoft Excel",
+    "action": "Select the entire row",
+    "keys": "Shift + Space"
+  },
+  {
+    "id": 59,
+    "app": "Microsoft Excel",
+    "action": "Turn filters on or off",
+    "keys": "Ctrl + Shift + L"
+  },
+  {
+    "id": 60,
+    "app": "Microsoft Excel",
+    "action": "Create a table",
+    "keys": "Ctrl + T"
+  },
+  {
+    "id": 61,
+    "app": "Microsoft Excel",
+    "action": "AutoSum",
+    "keys": "Alt + ="
+  },
+  {
+    "id": 62,
+    "app": "Microsoft Excel",
+    "action": "Edit the active cell",
+    "keys": "F2"
+  },
+  {
+    "id": 63,
+    "app": "Microsoft Excel",
+    "action": "Switch between absolute and relative references",
+    "keys": "F4"
+  },
+  {
+    "id": 64,
+    "app": "Microsoft Excel",
+    "action": "Insert today's date",
+    "keys": "Ctrl + ;"
+  },
+  {
+    "id": 65,
+    "app": "Microsoft Excel",
+    "action": "Insert the current time",
+    "keys": "Ctrl + Shift + :"
+  },
+  {
+    "id": 66,
+    "app": "Microsoft Excel",
+    "action": "Open the Format Cells dialog",
+    "keys": "Ctrl + 1"
+  },
+  {
+    "id": 67,
+    "app": "Microsoft Excel",
+    "action": "Apply Currency format",
+    "keys": "Ctrl + Shift + $"
+  },
+  {
+    "id": 68,
+    "app": "Microsoft Excel",
+    "action": "Apply Percentage format",
+    "keys": "Ctrl + Shift + %"
+  },
+  {
+    "id": 69,
+    "app": "Microsoft Excel",
+    "action": "Hide the selected rows",
+    "keys": "Ctrl + 9"
+  },
+  {
+    "id": 70,
+    "app": "Microsoft Excel",
+    "action": "Hide the selected columns",
+    "keys": "Ctrl + 0"
+  },
+  {
+    "id": 71,
+    "app": "Microsoft Excel",
+    "action": "Fill down",
+    "keys": "Ctrl + D"
+  },
+  {
+    "id": 72,
+    "app": "Microsoft Excel",
+    "action": "Fill right",
+    "keys": "Ctrl + R"
+  },
+  {
+    "id": 73,
+    "app": "Microsoft Excel",
+    "action": "Start a new line inside a cell",
+    "keys": "Alt + Enter"
+  },
+  {
+    "id": 74,
+    "app": "Microsoft Excel",
+    "action": "Show formulas instead of results",
+    "keys": "Ctrl + `"
+  },
+  {
+    "id": 75,
+    "app": "Microsoft Excel",
+    "action": "Insert a new worksheet",
+    "keys": "Shift + F11"
+  },
+  {
+    "id": 76,
+    "app": "Microsoft Excel",
+    "action": "Go to the next worksheet",
+    "keys": "Ctrl + Page Down"
+  },
+  {
+    "id": 77,
+    "app": "Microsoft Excel",
+    "action": "Go to the previous worksheet",
+    "keys": "Ctrl + Page Up"
+  },
+  {
+    "id": 78,
+    "app": "Microsoft Excel",
+    "action": "Create a chart on a new sheet",
+    "keys": "F11"
+  },
+  {
+    "id": 79,
+    "app": "Microsoft Excel",
+    "action": "Delete the selected cells",
+    "keys": "Ctrl + -"
+  },
+  {
+    "id": 80,
+    "app": "Microsoft Excel",
+    "action": "Insert cells",
+    "keys": "Ctrl + Shift + +"
+  },
+  {
+    "id": 81,
+    "app": "Microsoft Excel",
+    "action": "Recalculate all formulas",
+    "keys": "F9"
+  },
+  {
+    "id": 82,
+    "app": "Microsoft Excel",
+    "action": "Open the Go To dialog",
+    "keys": "F5"
+  },
+  {
+    "id": 83,
+    "app": "Microsoft Excel",
+    "action": "Flash Fill",
+    "keys": "Ctrl + E"
+  },
+  {
+    "id": 84,
+    "app": "Microsoft Excel",
+    "action": "Strikethrough",
+    "keys": "Ctrl + 5"
+  },
+  {
+    "id": 85,
+    "app": "Microsoft Excel",
+    "action": "Select to the end of the data",
+    "keys": "Ctrl + Shift + Arrow Key"
+  },
+  {
+    "id": 86,
+    "app": "Microsoft Excel",
+    "action": "Insert or edit a note",
+    "keys": "Shift + F2"
+  },
+  {
+    "id": 87,
+    "app": "Microsoft PowerPoint",
+    "action": "Start the slide show from the beginning",
+    "keys": "F5"
+  },
+  {
+    "id": 88,
+    "app": "Microsoft PowerPoint",
+    "action": "Start the slide show from the current slide",
+    "keys": "Shift + F5"
+  },
+  {
+    "id": 89,
+    "app": "Microsoft PowerPoint",
+    "action": "End the slide show",
+    "keys": "Esc"
+  },
+  {
+    "id": 90,
+    "app": "Microsoft PowerPoint",
+    "action": "Insert a new slide",
+    "keys": "Ctrl + M"
+  },
+  {
+    "id": 91,
+    "app": "Microsoft PowerPoint",
+    "action": "Duplicate the selected slide or object",
+    "keys": "Ctrl + D"
+  },
+  {
+    "id": 92,
+    "app": "Microsoft PowerPoint",
+    "action": "Show a black screen during the show",
+    "keys": "B"
+  },
+  {
+    "id": 93,
+    "app": "Microsoft PowerPoint",
+    "action": "Show a white screen during the show",
+    "keys": "W"
+  },
+  {
+    "id": 94,
+    "app": "Microsoft PowerPoint",
+    "action": "Group objects",
+    "keys": "Ctrl + G"
+  },
+  {
+    "id": 95,
+    "app": "Microsoft PowerPoint",
+    "action": "Ungroup objects",
+    "keys": "Ctrl + Shift + G"
+  },
+  {
+    "id": 96,
+    "app": "Microsoft PowerPoint",
+    "action": "Open the Font dialog box",
+    "keys": "Ctrl + T"
+  },
+  {
+    "id": 97,
+    "app": "Microsoft PowerPoint",
+    "action": "Center align text",
+    "keys": "Ctrl + E"
+  },
+  {
+    "id": 98,
+    "app": "Microsoft PowerPoint",
+    "action": "Left align text",
+    "keys": "Ctrl + L"
+  },
+  {
+    "id": 99,
+    "app": "Microsoft PowerPoint",
+    "action": "Right align text",
+    "keys": "Ctrl + R"
+  },
+  {
+    "id": 100,
+    "app": "Microsoft PowerPoint",
+    "action": "Justify text",
+    "keys": "Ctrl + J"
+  },
+  {
+    "id": 101,
+    "app": "Microsoft PowerPoint",
+    "action": "Increase font size",
+    "keys": "Ctrl + Shift + >"
+  },
+  {
+    "id": 102,
+    "app": "Microsoft PowerPoint",
+    "action": "Decrease font size",
+    "keys": "Ctrl + Shift + <"
+  },
+  {
+    "id": 103,
+    "app": "Microsoft PowerPoint",
+    "action": "Open Presenter View",
+    "keys": "Alt + F5"
+  },
+  {
+    "id": 104,
+    "app": "Microsoft PowerPoint",
+    "action": "Show or hide the gridlines",
+    "keys": "Shift + F9"
+  },
+  {
+    "id": 105,
+    "app": "Microsoft PowerPoint",
+    "action": "Show or hide the guides",
+    "keys": "Alt + F9"
+  },
+  {
+    "id": 106,
+    "app": "Microsoft PowerPoint",
+    "action": "Copy formatting",
+    "keys": "Ctrl + Shift + C"
+  },
+  {
+    "id": 107,
+    "app": "Microsoft PowerPoint",
+    "action": "Paste formatting",
+    "keys": "Ctrl + Shift + V"
+  },
+  {
+    "id": 108,
+    "app": "Microsoft PowerPoint",
+    "action": "Go to the first slide during the show",
+    "keys": "Home"
+  },
+  {
+    "id": 109,
+    "app": "Microsoft PowerPoint",
+    "action": "Go to the last slide during the show",
+    "keys": "End"
+  },
+  {
+    "id": 110,
+    "app": "Microsoft PowerPoint",
+    "action": "Erase on-screen drawings during the show",
+    "keys": "E"
+  },
+  {
+    "id": 111,
+    "app": "Microsoft PowerPoint",
+    "action": "Jump to a slide number during the show",
+    "keys": "Number + Enter"
+  },
+  {
+    "id": 112,
+    "app": "Microsoft PowerPoint",
+    "action": "Subscript",
+    "keys": "Ctrl + ="
+  },
+  {
+    "id": 113,
+    "app": "Microsoft PowerPoint",
+    "action": "Superscript",
+    "keys": "Ctrl + Shift + ="
+  },
+  {
+    "id": 114,
+    "app": "Microsoft PowerPoint",
+    "action": "Open the Selection Pane",
+    "keys": "Alt + F10"
+  },
+  {
+    "id": 115,
+    "app": "Microsoft PowerPoint",
+    "action": "Change text case",
+    "keys": "Shift + F3"
+  },
+  {
+    "id": 116,
+    "app": "Windows",
+    "action": "Switch between open apps",
+    "keys": "Alt + Tab"
+  },
+  {
+    "id": 117,
+    "app": "Windows",
+    "action": "Close the current program",
+    "keys": "Alt + F4"
+  },
+  {
+    "id": 118,
+    "app": "Windows",
+    "action": "Show or hide the desktop",
+    "keys": "Win + D"
+  },
+  {
+    "id": 119,
+    "app": "Windows",
+    "action": "Lock the computer",
+    "keys": "Win + L"
+  },
+  {
+    "id": 120,
+    "app": "Windows",
+    "action": "Open File Explorer",
+    "keys": "Win + E"
+  },
+  {
+    "id": 121,
+    "app": "Windows",
+    "action": "Open Task Manager",
+    "keys": "Ctrl + Shift + Esc"
+  },
+  {
+    "id": 122,
+    "app": "Windows",
+    "action": "Take a screenshot with Snipping Tool",
+    "keys": "Win + Shift + S"
+  },
+  {
+    "id": 123,
+    "app": "Windows",
+    "action": "Open the Run dialog",
+    "keys": "Win + R"
+  },
+  {
+    "id": 124,
+    "app": "Windows",
+    "action": "Open Settings",
+    "keys": "Win + I"
+  },
+  {
+    "id": 125,
+    "app": "Windows",
+    "action": "Minimize all windows",
+    "keys": "Win + M"
+  },
+  {
+    "id": 126,
+    "app": "Windows",
+    "action": "Open the emoji panel",
+    "keys": "Win + ."
+  },
+  {
+    "id": 127,
+    "app": "Windows",
+    "action": "Open clipboard history",
+    "keys": "Win + V"
+  },
+  {
+    "id": 128,
+    "app": "Windows",
+    "action": "Open Task View",
+    "keys": "Win + Tab"
+  },
+  {
+    "id": 129,
+    "app": "Windows",
+    "action": "Capture the whole screen",
+    "keys": "PrtScn"
+  },
+  {
+    "id": 130,
+    "app": "Windows",
+    "action": "Rename the selected file",
+    "keys": "F2"
+  },
+  {
+    "id": 131,
+    "app": "Windows",
+    "action": "Delete a file permanently",
+    "keys": "Shift + Delete"
+  },
+  {
+    "id": 132,
+    "app": "Windows",
+    "action": "Refresh the page or window",
+    "keys": "F5"
+  }
+]
